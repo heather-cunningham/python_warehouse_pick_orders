@@ -1,0 +1,1035 @@
+
+
+-------------------ODA employee#: 1-------------------
+
+
+Line Item: 1
+------------
+Order #: 930
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 2
+ORDER DETAILS:
+Part #: 74  Qty = 7
+
+
+Line Item: 2
+------------
+Order #: 943
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 7  Qty = 10
+
+
+Line Item: 3
+------------
+Order #: 535
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 5
+ORDER DETAILS:
+Part #: 28  Qty = 24
+
+
+Line Item: 4
+------------
+Order #: 557
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 15  Qty = 13
+
+
+Line Item: 5
+------------
+Order #: 661
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 9
+ORDER DETAILS:
+Part #: 35  Qty = 30
+
+
+Line Item: 6
+------------
+Order #: 159
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 1  Bin #: 3
+ORDER DETAILS:
+Part #: 71  Qty = 22
+
+-------------------ODA employee#: 2-------------------
+
+
+Line Item: 1
+------------
+Order #: 282
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 3  Bin #: 6
+ORDER DETAILS:
+Part #: 11  Qty = 6
+
+
+Line Item: 2
+------------
+Order #: 871
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 3  Bin #: 8
+ORDER DETAILS:
+Part #: 5  Qty = 4
+
+
+Line Item: 3
+------------
+Order #: 104
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 86  Qty = 4
+
+
+Line Item: 4
+------------
+Order #: 958
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 2  Bin #: 8
+ORDER DETAILS:
+Part #: 68  Qty = 21
+
+
+Line Item: 5
+------------
+Order #: 381
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 1  Bin #: 4
+ORDER DETAILS:
+Part #: 93  Qty = 10
+
+
+Line Item: 6
+------------
+Order #: 333
+------------
+LOCATION:
+Aisle #: 1  Shelf #: 1  Bin #: 7
+ORDER DETAILS:
+Part #: 53  Qty = 13
+
+-------------------ODA employee#: 3-------------------
+
+
+Line Item: 1
+------------
+Order #: 177
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 3  Bin #: 2
+ORDER DETAILS:
+Part #: 19  Qty = 4
+
+
+Line Item: 2
+------------
+Order #: 226
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 3  Bin #: 4
+ORDER DETAILS:
+Part #: 53  Qty = 8
+
+
+Line Item: 3
+------------
+Order #: 889
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 3  Bin #: 9
+ORDER DETAILS:
+Part #: 44  Qty = 28
+
+
+Line Item: 4
+------------
+Order #: 937
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 42  Qty = 3
+
+
+Line Item: 5
+------------
+Order #: 474
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 8
+ORDER DETAILS:
+Part #: 88  Qty = 8
+
+
+Line Item: 6
+------------
+Order #: 201
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 4
+ORDER DETAILS:
+Part #: 88  Qty = 10
+
+-------------------ODA employee#: 4-------------------
+
+
+Line Item: 1
+------------
+Order #: 341
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 1
+ORDER DETAILS:
+Part #: 26  Qty = 17
+
+
+Line Item: 2
+------------
+Order #: 787
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 1
+ORDER DETAILS:
+Part #: 62  Qty = 17
+
+
+Line Item: 3
+------------
+Order #: 790
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 21  Qty = 23
+
+
+Line Item: 4
+------------
+Order #: 350
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 92  Qty = 22
+
+
+Line Item: 5
+------------
+Order #: 816
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 4
+ORDER DETAILS:
+Part #: 58  Qty = 8
+
+
+Line Item: 6
+------------
+Order #: 137
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 9
+ORDER DETAILS:
+Part #: 44  Qty = 7
+
+-------------------ODA employee#: 5-------------------
+
+
+Line Item: 1
+------------
+Order #: 526
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 3  Bin #: 3
+ORDER DETAILS:
+Part #: 47  Qty = 15
+
+
+Line Item: 2
+------------
+Order #: 51
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 2  Bin #: 3
+ORDER DETAILS:
+Part #: 40  Qty = 27
+
+
+Line Item: 3
+------------
+Order #: 62
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 36  Qty = 18
+
+
+Line Item: 4
+------------
+Order #: 123
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 3
+ORDER DETAILS:
+Part #: 44  Qty = 16
+
+
+Line Item: 5
+------------
+Order #: 2
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 7
+ORDER DETAILS:
+Part #: 72  Qty = 26
+
+
+Line Item: 6
+------------
+Order #: 987
+------------
+LOCATION:
+Aisle #: 2  Shelf #: 1  Bin #: 8
+ORDER DETAILS:
+Part #: 97  Qty = 11
+
+-------------------ODA employee#: 6-------------------
+
+
+Line Item: 1
+------------
+Order #: 304
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 3  Bin #: 2
+ORDER DETAILS:
+Part #: 33  Qty = 6
+
+
+Line Item: 2
+------------
+Order #: 106
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 3  Bin #: 3
+ORDER DETAILS:
+Part #: 48  Qty = 13
+
+
+Line Item: 3
+------------
+Order #: 458
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 3  Bin #: 9
+ORDER DETAILS:
+Part #: 58  Qty = 6
+
+
+Line Item: 4
+------------
+Order #: 967
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 35  Qty = 16
+
+
+Line Item: 5
+------------
+Order #: 163
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 7
+ORDER DETAILS:
+Part #: 76  Qty = 10
+
+
+Line Item: 6
+------------
+Order #: 275
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 7
+ORDER DETAILS:
+Part #: 9  Qty = 29
+
+-------------------ODA employee#: 7-------------------
+
+
+Line Item: 1
+------------
+Order #: 613
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 1
+ORDER DETAILS:
+Part #: 66  Qty = 27
+
+
+Line Item: 2
+------------
+Order #: 860
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 3
+ORDER DETAILS:
+Part #: 77  Qty = 28
+
+
+Line Item: 3
+------------
+Order #: 315
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 5
+ORDER DETAILS:
+Part #: 64  Qty = 25
+
+
+Line Item: 4
+------------
+Order #: 499
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 7
+ORDER DETAILS:
+Part #: 88  Qty = 25
+
+
+Line Item: 5
+------------
+Order #: 21
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 9
+ORDER DETAILS:
+Part #: 33  Qty = 16
+
+
+Line Item: 6
+------------
+Order #: 222
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 10
+ORDER DETAILS:
+Part #: 45  Qty = 18
+
+-------------------ODA employee#: 8-------------------
+
+
+Line Item: 1
+------------
+Order #: 83
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 3  Bin #: 1
+ORDER DETAILS:
+Part #: 56  Qty = 1
+
+
+Line Item: 2
+------------
+Order #: 3
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 3  Bin #: 4
+ORDER DETAILS:
+Part #: 63  Qty = 20
+
+
+Line Item: 3
+------------
+Order #: 856
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 83  Qty = 22
+
+
+Line Item: 4
+------------
+Order #: 621
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 6
+ORDER DETAILS:
+Part #: 47  Qty = 3
+
+
+Line Item: 5
+------------
+Order #: 779
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 6
+ORDER DETAILS:
+Part #: 23  Qty = 21
+
+
+Line Item: 6
+------------
+Order #: 567
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 1  Bin #: 10
+ORDER DETAILS:
+Part #: 30  Qty = 3
+
+-------------------ODA employee#: 9-------------------
+
+
+Line Item: 1
+------------
+Order #: 419
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 8
+ORDER DETAILS:
+Part #: 45  Qty = 2
+
+
+Line Item: 2
+------------
+Order #: 150
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 5
+ORDER DETAILS:
+Part #: 39  Qty = 27
+
+
+Line Item: 3
+------------
+Order #: 458
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 33  Qty = 27
+
+
+Line Item: 4
+------------
+Order #: 377
+------------
+LOCATION:
+Aisle #: 3  Shelf #: 2  Bin #: 6
+ORDER DETAILS:
+Part #: 76  Qty = 30
+
+
+Line Item: 5
+------------
+Order #: 394
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 8
+ORDER DETAILS:
+Part #: 97  Qty = 12
+
+
+Line Item: 6
+------------
+Order #: 877
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 1  Bin #: 4
+ORDER DETAILS:
+Part #: 68  Qty = 19
+
+-------------------ODA employee#: 10-------------------
+
+
+Line Item: 1
+------------
+Order #: 868
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 3
+ORDER DETAILS:
+Part #: 39  Qty = 3
+
+
+Line Item: 2
+------------
+Order #: 330
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 4
+ORDER DETAILS:
+Part #: 27  Qty = 10
+
+
+Line Item: 3
+------------
+Order #: 279
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 8
+ORDER DETAILS:
+Part #: 25  Qty = 30
+
+
+Line Item: 4
+------------
+Order #: 873
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 8
+ORDER DETAILS:
+Part #: 62  Qty = 18
+
+
+Line Item: 5
+------------
+Order #: 978
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 9
+ORDER DETAILS:
+Part #: 29  Qty = 7
+
+
+Line Item: 6
+------------
+Order #: 298
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 1  Bin #: 6
+ORDER DETAILS:
+Part #: 39  Qty = 28
+
+-------------------ODA employee#: 11-------------------
+
+
+Line Item: 1
+------------
+Order #: 658
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 9
+ORDER DETAILS:
+Part #: 52  Qty = 25
+
+
+Line Item: 2
+------------
+Order #: 898
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 3  Qty = 23
+
+
+Line Item: 3
+------------
+Order #: 137
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 7
+ORDER DETAILS:
+Part #: 92  Qty = 18
+
+
+Line Item: 4
+------------
+Order #: 424
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 84  Qty = 9
+
+
+Line Item: 5
+------------
+Order #: 923
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 1  Bin #: 1
+ORDER DETAILS:
+Part #: 84  Qty = 26
+
+
+Line Item: 6
+------------
+Order #: 290
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 1  Bin #: 10
+ORDER DETAILS:
+Part #: 82  Qty = 28
+
+-------------------ODA employee#: 12-------------------
+
+
+Line Item: 1
+------------
+Order #: 439
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 1
+ORDER DETAILS:
+Part #: 94  Qty = 6
+
+
+Line Item: 2
+------------
+Order #: 378
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 6
+ORDER DETAILS:
+Part #: 91  Qty = 4
+
+
+Line Item: 3
+------------
+Order #: 535
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 3  Bin #: 6
+ORDER DETAILS:
+Part #: 14  Qty = 9
+
+
+Line Item: 4
+------------
+Order #: 862
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 38  Qty = 18
+
+
+Line Item: 5
+------------
+Order #: 227
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 1  Bin #: 2
+ORDER DETAILS:
+Part #: 29  Qty = 20
+
+
+Line Item: 6
+------------
+Order #: 602
+------------
+LOCATION:
+Aisle #: 4  Shelf #: 1  Bin #: 10
+ORDER DETAILS:
+Part #: 98  Qty = 5
+
+-------------------ODA employee#: 13-------------------
+
+
+Line Item: 1
+------------
+Order #: 31
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 2
+ORDER DETAILS:
+Part #: 58  Qty = 8
+
+
+Line Item: 2
+------------
+Order #: 578
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 4
+ORDER DETAILS:
+Part #: 81  Qty = 9
+
+
+Line Item: 3
+------------
+Order #: 883
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 8
+ORDER DETAILS:
+Part #: 11  Qty = 26
+
+
+Line Item: 4
+------------
+Order #: 265
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 9
+ORDER DETAILS:
+Part #: 57  Qty = 3
+
+
+Line Item: 5
+------------
+Order #: 184
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 35  Qty = 8
+
+
+Line Item: 6
+------------
+Order #: 957
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 1  Bin #: 8
+ORDER DETAILS:
+Part #: 67  Qty = 17
+
+-------------------ODA employee#: 14-------------------
+
+
+Line Item: 1
+------------
+Order #: 446
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 2
+ORDER DETAILS:
+Part #: 22  Qty = 12
+
+
+Line Item: 2
+------------
+Order #: 787
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 9
+ORDER DETAILS:
+Part #: 98  Qty = 2
+
+
+Line Item: 3
+------------
+Order #: 205
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 51  Qty = 22
+
+
+Line Item: 4
+------------
+Order #: 526
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 38  Qty = 19
+
+
+Line Item: 5
+------------
+Order #: 493
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 95  Qty = 26
+
+
+Line Item: 6
+------------
+Order #: 482
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 1  Bin #: 5
+ORDER DETAILS:
+Part #: 89  Qty = 16
+
+-------------------ODA employee#: 15-------------------
+
+
+Line Item: 1
+------------
+Order #: 197
+------------
+LOCATION:
+Aisle #: 5  Shelf #: 3  Bin #: 1
+ORDER DETAILS:
+Part #: 5  Qty = 2
+
+
+Line Item: 2
+------------
+Order #: 519
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 3  Bin #: 1
+ORDER DETAILS:
+Part #: 32  Qty = 15
+
+
+Line Item: 3
+------------
+Order #: 274
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 3
+ORDER DETAILS:
+Part #: 63  Qty = 3
+
+
+Line Item: 4
+------------
+Order #: 465
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 5
+ORDER DETAILS:
+Part #: 96  Qty = 1
+
+
+Line Item: 5
+------------
+Order #: 301
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 6
+ORDER DETAILS:
+Part #: 62  Qty = 20
+
+
+Line Item: 6
+------------
+Order #: 736
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 10
+ORDER DETAILS:
+Part #: 64  Qty = 6
+
+-------------------ODA employee#: 16-------------------
+
+
+Line Item: 1
+------------
+Order #: 702
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 3  Bin #: 8
+ORDER DETAILS:
+Part #: 98  Qty = 7
+
+
+Line Item: 2
+------------
+Order #: 472
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 3
+ORDER DETAILS:
+Part #: 29  Qty = 16
+
+
+Line Item: 3
+------------
+Order #: 937
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 8
+ORDER DETAILS:
+Part #: 13  Qty = 7
+
+
+Line Item: 4
+------------
+Order #: 871
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 10
+ORDER DETAILS:
+Part #: 7  Qty = 29
+
+
+Line Item: 5
+------------
+Order #: 541
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 3
+ORDER DETAILS:
+Part #: 36  Qty = 2
+
+
+Line Item: 6
+------------
+Order #: 578
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 6
+ORDER DETAILS:
+Part #: 7  Qty = 20
+
+-------------------ODA employee#: 17-------------------
+
+
+Line Item: 1
+------------
+Order #: 18
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 3  Bin #: 10
+ORDER DETAILS:
+Part #: 74  Qty = 3
+
+
+Line Item: 2
+------------
+Order #: 725
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 2  Bin #: 4
+ORDER DETAILS:
+Part #: 92  Qty = 12
+
+
+Line Item: 3
+------------
+Order #: 236
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 2
+ORDER DETAILS:
+Part #: 59  Qty = 13
+
+
+Line Item: 4
+------------
+Order #: 201
+------------
+LOCATION:
+Aisle #: 6  Shelf #: 1  Bin #: 4
+ORDER DETAILS:
+Part #: 87  Qty = 2
