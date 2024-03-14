@@ -1,5 +1,5 @@
 # Python Warehouse Pick Orders
-A Python school project
+A Python school project from 2017
 
 ## Instructions from Prof:
 This project is a real world problem about efficiency in a warehouse.  
